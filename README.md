@@ -1,6 +1,6 @@
 # Summer_Internship_2024
 # 4th Sem summer Internship
-## Week1
+## Week-1
 ### 15/05/2024-Wednesday
 - Research on API, backend, frontend,node js, express js, database.
 - Introduction to waterfall model, Agile, scrum, sprint,  web development ,app development.
@@ -14,7 +14,7 @@
 - installed  xampp.
 - learnt  to connect mysql using python.
 
-## Week2
+## Week-2
 ### 20/05/2024-Monday
 - Connected Student html form with MYSQL using python
 - learnt and  implemented JQuery hide and show and JQuery mouse and keyboard events
@@ -25,7 +25,7 @@
 - learnt about flutter app lifecycle
 
 ### 22/05/2024-Wednesday
--l earnt about normal project structure  
+- I earnt about normal project structure  
 - learnt basics of Dart 
   - variables, datatypes, class, inheritance, condition ,control flow
 - Learnt about some widgets row,column,text,center and implemented it
@@ -39,7 +39,7 @@
 ### 24/05/2024-Friday
 - Learnt about listview ,bottomAppbar, Flexible,Gridview, Navigator and implemented it
 
-## Week3
+## Week-3
 ### 27/05/2024-Monday
 - Learnt about routing, passing data between two screens and implemented it
 - Read about state management
@@ -60,7 +60,7 @@
 ### 31/05/2024-Friday
 - Learnt and implemented Getx concepts(navigation, routing, passing data between screens, get height, get width, changing local language of the app )
 
-## Week4
+## Week-4
 ### 03/06/2024-Monday
 - learnt about  obs, Obx, dependency injection and how we can create GetX controller. 
 - Learnt and implemented getx counter example,opacity changing  with slider example,switch 
