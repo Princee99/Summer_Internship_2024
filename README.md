@@ -60,7 +60,7 @@
 ### 31/05/2024-Friday
 - Learnt and implemented Getx concepts(navigation, routing, passing data between screens, get height, get width, changing local language of the app )
 
-##Week4
+## Week4
 ### 03/06/2024-Monday
 - learnt about  obs, Obx, dependency injection and how we can create GetX controller. 
 - Learnt and implemented getx counter example,opacity changing  with slider example,switch 
@@ -84,15 +84,20 @@
 - created Login Signup page of demo photo albumn app
 - connected demo photo albumn app with firebase
 
+## Week-5
 ### 10/06/2024-Monday
-- Login signup authentication 
-- implemented slide bar and logout functionality in demo photo album app
-- changing App icon
-- searched about push notification using firebase 
+- created more page using list
 
 ### 11/06/2024-Tuesday
-- Implemented splash screen in demo photo album app
-- Implemented push notification functionality using firebase
+- created update profile page
 
 ### 12/06/2024-Wednesday
--
+- created contact page using fetching API  and list
+- created contact detail page  using  container and list
+
+### 13/06/2024-Thursday
+- created company list page using API fetching and list
+- created  company detail  page using container and list
+
+### 14/06/2024-Friday
+- created Lost page  using API fetching
